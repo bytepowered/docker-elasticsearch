@@ -1,5 +1,5 @@
 FROM docker.io/bitnami/elasticsearch:6.8.18
-LABEL maintainer "Bitnami <containers@bitnami.com>"
+LABEL maintainer "Yongjiachen <yongjia.chen@hotmail.com>"
 # Copy plugins
 ADD --chown=1001:1001 plugins/ /opt/bitnami/elasticsearch/plugins/
 # Enable plugins
