@@ -4,4 +4,5 @@
 
 Version: 6.8.18
 Bitnami: [https://hub.docker.com/r/bitnami/elasticsearch](https://hub.docker.com/r/bitnami/elasticsearch)
-Analysis: [https://github.com/medcl/elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik)
+Analysis IK: [https://github.com/medcl/elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik)
+Analysis LC: [https://github.com/gitchennan/elasticsearch-analysis-lc-pinyin](https://github.com/gitchennan/elasticsearch-analysis-lc-pinyin)
