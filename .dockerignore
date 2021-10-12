@@ -1,1 +1,3 @@
+# Ignore the f**king macos DSStore
 .DS_Store
+**/.DS_Store
